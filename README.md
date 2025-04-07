@@ -1,5 +1,7 @@
 /snnagitrader/
+
 │
+
 ├── main.ipynb                         # Single runtime notebook for training, testing, and evaluation
 ├── README.md                          # Project overview and usage instructions
 ├── requirements.txt                   # Python dependencies for local/Delta setup
