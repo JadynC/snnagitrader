@@ -72,9 +72,4 @@
 │   ├── clustering.py                  # Feature extraction + dimensionality reduction + clustering
 
 │   └── strategy_analysis.py           # Compares clusters to known strategies, visualizes
-│
-└── /github_utils/                     # GitHub helper scripts (used outside runtime)
 
-    ├── pull_push.py                   # Handles git pull/push/commit safely from Colab
-    
-    └── setup_git.sh                   # First-time GitHub linking script for token + repo config
